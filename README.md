@@ -8,5 +8,6 @@
 
 2. Learning about Neural Networks & Creating Flash Cards with GPT
 
+   - Project Slides: https://docs.google.com/presentation/d/1szdAAhu_bKHd4yosuTask95CJ1PdwnyK5UPzazX-kUQ/edit#slide=id.g2ae627f4ddc_0_396
    - Neural Network Code: https://colab.research.google.com/drive/1k4utBnTdkESKdrTJ3X23T59gIHJOsT5e?usp=sharing
    - Creating Flash Cards with GPT Code: https://colab.research.google.com/drive/187V-avofQqGaIsLbcLEOoWKA-QEWY5D2?usp=sharing
