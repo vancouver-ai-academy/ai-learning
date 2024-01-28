@@ -3,6 +3,7 @@
 ## Lectures
 
 4. Start UP Ideas: https://docs.google.com/presentation/d/19WfDxN4piZ2-Q1AlYDXEoyIlJACAfvZy5dTRKZoOS2g/edit?usp=sharing
+   Similarrity Functuons: https://colab.research.google.com/drive/1TThblTmzLXcLUI__oHiSLhfd-dNpbpb4?usp=sharing
 
 1. Best Coding Practices for AI Experiments
    - Slides: https://docs.google.com/presentation/d/1F-RnYBFb45gKcjXJi39K_mwAUuW_kjd20InriLeWubo/edit?usp=sharing
